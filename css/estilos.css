@@ -1,0 +1,28 @@
+h1{
+    color: darkorange;
+}
+
+a{
+    color: darksalmon;
+    font-style: oblique;
+    font-size: 19px;
+}
+
+.contenedor{
+    
+    background-color: moccasin;
+    text-align: center;
+    width: 1200px;
+    margin: auto;
+}
+
+footer{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: chocolate;
+    width: auto;
+}
+
+.leer:hover{
+    color:black;
+    background: rgb(128, 119, 0);
+}
